@@ -3,3 +3,27 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.header_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    height: 100px;
+    background-color: #AFEECE;
+}
+
+#menu_icon {
+    width: 45px;
+    height: 45px;
+}
+
+#logo_icon {
+    width: 157px;
+    height: 157px;
+}
+
+#carrinho_icon{
+    width: 45px;
+    height: 45px; 
+}
