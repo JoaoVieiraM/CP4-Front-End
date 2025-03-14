@@ -27,3 +27,8 @@
     width: 45px;
     height: 45px; 
 }
+
+.carousel-inner img {
+    height: 300px; 
+    object-fit: cover; 
+}
